@@ -1,0 +1,7 @@
+server:
+  port: 10000
+kafka:
+  clusters:
+    -
+      name: kafka
+      bootstrapServers: broker1:29092,broker2:29092,broker3:29092

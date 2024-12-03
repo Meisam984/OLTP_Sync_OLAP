@@ -1,0 +1,12 @@
+John,,200
+Albert,HR,1900
+Mark,,1000
+Frank,TP,1150
+Loopa,HR,1100
+Lui,,1300
+Lesa,TP,900
+Pars,HR,800
+leo,HR,700
+lock,,650
+Bhut,TP,800
+Lio,TP,500
